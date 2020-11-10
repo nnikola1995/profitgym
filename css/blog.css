@@ -1,0 +1,15 @@
+h1,
+h2 {
+    color: #4AB7A1;
+    text-align: left;
+}
+
+p {
+    text-align: center;
+    /* padding: 0px 300px; */
+    text-align: justify;
+}
+
+.blog-content h2 {
+    margin-top: 20px;
+}
